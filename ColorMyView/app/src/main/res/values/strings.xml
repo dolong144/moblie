@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ColorMyView</string>
+    <string name="box_one">Box one</string>
+    <string name="box_two">Box two</string>
+    <string name="box_three">Box three</string>
+    <string name="box_four">Box four</string>
+    <string name="box_five">Box five</string>
+    <string name="botton_red">RED</string>
+    <string name="botton_yellow">YELLOW</string>
+    <string name="botton_green">GREEN</string>
+    <string name="how_to_play">How to play</string>
+    <string name="tap_the_box_and_botton">Tap the screen and the bottons</string>
+</resources>
