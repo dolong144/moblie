@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Hello World!</string>
+    <string name="hint">What is your name?</string>
+    <string name="introduce_myself">Ngày 16/12/2020, Nguyễn Linh Đan, học sinh lớp 12 Nga trường THPT chuyên Hà Nội - Amsterdam,
+        \n \n nhận kết quả trúng tuyển Đại học New York (Mỹ).
+        \n \n Nhưng nỗ lực của Đan chưa dừng lại.
+        \n Em quyết định đầu tư nhiều hơn vào bản thân để chuẩn bị thể hình, tinh thần và trí óc cho các năm đại học.
+        \n \n \n \n \n Cô gái 18 tuổi vẫn bận rộn với việc học ở trường, học thêm tiếng Trung, thu âm bài hát, tham gia thêm các dự án phim ngắn và định học thêm về thiết kế.
+        \n “Từ lúc nhận tin trúng tuyển, điểm khác duy nhất của em là tinh thần, em đỡ lo lắng hơn rất nhiều”,
+        \n  Linh Đan chia sẻ khi kể về việc trúng tuyển Đại học New York,
+        \n ngôi trường đứng thứ 7 thế giới về Văn hóa,
+        \n \n \n \n \n \n \n Truyền thông - ngành học nữ sinh định theo đuổi.
+</string>
+    <string name="done_button">Done</string>
+</resources>
